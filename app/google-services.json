@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "859314970662",
+    "project_id": "zero-trust-82820",
+    "storage_bucket": "zero-trust-82820.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859314970662:android:6fcbf94f08fb84a1eec6e7",
+        "android_client_info": {
+          "package_name": "com.hopeinyang.zeroknowledge"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCut2zAua-7wvwRVp8Pp6ce_Pm8vv_8ehU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

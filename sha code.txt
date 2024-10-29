@@ -1,0 +1,21 @@
+Generated SHA1 ON 14-June 2024
+
+cmd to generate SHA1
+keytool -list -v -alias androiddebugkey -keystore C:\Users\hopei\.android\debug.keystore
+
+Enter keystore password:
+Alias name: androiddebugkey
+Creation date: Jun 13, 2024
+Entry type: PrivateKeyEntry
+Certificate chain length: 1
+Certificate[1]:
+Owner: C=US, O=Android, CN=Android Debug
+Issuer: C=US, O=Android, CN=Android Debug
+Serial number: 1
+Valid from: Thu Jun 13 12:02:38 WAT 2024 until: Sat Jun 06 12:02:38 WAT 2054
+Certificate fingerprints:
+         SHA1: 1C:03:18:D4:12:22:3C:6D:19:8B:A6:25:3D:01:98:A6:90:BA:6E:94
+         SHA256: 27:55:A4:20:B9:D9:A6:A0:21:D6:6F:C1:1A:58:2A:12:81:1D:32:E6:68:3D:E5:9E:E2:33:0B:EF:2C:42:0C:14
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 1
